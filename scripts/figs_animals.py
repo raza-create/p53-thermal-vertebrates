@@ -32,6 +32,7 @@ for i in range(1, len(y)): y[i] = max(y[i], y[i - 1] + 6.5)
 for (v, lab), yy in zip(ends, y): b.text(458, yy, f"{lab} ({v:.0f}%)", fontsize=6.5, color=INK2, va="center")
 b.set(xlabel="Simulation temperature (K)", ylabel="Native contacts lost vs 248 K (%)", xlim=(240, 545), xticks=TS); b.set_title("B   By structural region")
 b.legend(loc="upper left", fontsize=6.5, handlelength=1.5)
+for x_ in ax: x_.set_xticks(TS); x_.set_xticklabels([str(T) for T in TS], rotation=45, ha="right")
 fig.tight_layout(); fig.savefig(O / "fig3_thermal_response.png", dpi=300, facecolor="white"); fig.savefig(O / "fig3_thermal_response.pdf"); plt.close(fig)
 # ---------- per-species identity ----------
 def read_fa(p):
