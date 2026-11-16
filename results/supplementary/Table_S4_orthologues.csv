@@ -1,0 +1,35 @@
+UniProt accession,Species,Taxon ID,Class,Thermal group,Length (aa),DBD coverage (94-292),DBD identity to human,Included
+P07193,Xenopus laevis (African clawed frog),8355,Amphibia,Ectotherm,363,1.0,0.673,Yes
+P79734,Danio rerio (Zebrafish) (Brachydanio rerio),7955,Actinopteri,Ectotherm,373,1.0,0.698,Yes
+P25035,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),8022,Actinopteri,Ectotherm,396,1.0,0.698,Yes
+Q9W678,Barbus barbus (Barbel) (Cyprinus barbus),40830,Actinopteri,Ectotherm,369,1.0,0.693,Yes
+O93379,Ictalurus punctatus (Channel catfish) (Silurus punctatus),7998,Actinopteri,Ectotherm,376,1.0,0.688,Yes
+Q92143,Xiphophorus maculatus (Southern platyfish) (Platypoecilus maculatus),8083,Actinopteri,Ectotherm,342,0.985,0.597,Yes
+Q9W679,Tetraodon miurus (Congo puffer),94908,Actinopteri,Ectotherm,367,0.985,0.597,Yes
+O57538,Xiphophorus hellerii (Green swordtail),8084,Actinopteri,Ectotherm,342,0.985,0.592,Yes
+P79820,Oryzias latipes (Japanese rice fish) (Japanese killifish),8090,Actinopteri,Ectotherm,352,0.98,0.59,Yes
+O12946,Platichthys flesus (European flounder) (Pleuronectes flesus),8260,Actinopteri,Ectotherm,366,0.985,0.577,Yes
+P04637,Homo sapiens (Human),9606,Mammalia,Endotherm,393,1.0,1.0,Yes
+P56424,Macaca mulatta (Rhesus macaque),9544,Mammalia,Endotherm,393,1.0,0.975,Yes
+P13481,Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops),9534,Mammalia,Endotherm,393,1.0,0.975,Yes
+P61260,Macaca fuscata fuscata (Japanese macaque),9543,Mammalia,Endotherm,393,1.0,0.975,Yes
+P56423,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey),9541,Mammalia,Endotherm,393,1.0,0.975,Yes
+Q95330,Oryctolagus cuniculus (Rabbit),9986,Mammalia,Endotherm,391,1.0,0.965,Yes
+Q9TTA1,Tupaia belangeri (Northern treeshrew) (Tupaia glis belangeri),37347,Mammalia,Endotherm,393,1.0,0.945,Yes
+O36006,Marmota monax (Woodchuck),9995,Mammalia,Endotherm,391,1.0,0.945,Yes
+Q64662,Otospermophilus beecheyi (California ground squirrel) (Spermophilus beecheyi),34862,Mammalia,Endotherm,314,1.0,0.94,Yes
+Q8SPZ3,Delphinapterus leucas (Beluga whale),9749,Mammalia,Endotherm,387,1.0,0.93,Yes
+Q29480,Equus asinus (Donkey) (Equus africanus asinus),9793,Mammalia,Endotherm,207,0.839,0.928,No (DBD coverage < 0.9)
+P79892,Equus caballus (Horse),9796,Mammalia,Endotherm,280,1.0,0.925,Yes
+Q9TUB2,Sus scrofa (Pig),9823,Mammalia,Endotherm,386,1.0,0.925,Yes
+P10361,Rattus norvegicus (Rat),10116,Mammalia,Endotherm,391,1.0,0.91,Yes
+P67939,Bos taurus (Bovine),9913,Mammalia,Endotherm,386,1.0,0.91,Yes
+P67938,Bos indicus (Zebu),9915,Mammalia,Endotherm,386,1.0,0.91,Yes
+Q29537,Canis lupus familiaris (Dog) (Canis familiaris),9615,Mammalia,Endotherm,381,1.0,0.899,Yes
+O09185,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),10029,Mammalia,Endotherm,393,1.0,0.894,Yes
+Q9WUR6,Cavia porcellus (Guinea pig),10141,Mammalia,Endotherm,391,1.0,0.894,Yes
+P51664,Ovis aries (Sheep),9940,Mammalia,Endotherm,382,1.0,0.894,Yes
+Q00366,Mesocricetus auratus (Golden hamster),10036,Mammalia,Endotherm,396,1.0,0.894,Yes
+P41685,Felis catus (Cat) (Felis silvestris catus),9685,Mammalia,Endotherm,386,1.0,0.889,Yes
+P02340,Mus musculus (Mouse),10090,Mammalia,Endotherm,390,1.0,0.884,Yes
+P10360,Gallus gallus (Chicken),9031,Aves,Endotherm,367,1.0,0.709,Yes
