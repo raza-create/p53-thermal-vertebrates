@@ -1,4 +1,4 @@
-# Loop-first thermal unfolding of the p53 DNA-binding domain and conservation of its heat-sensitive loops across vertebrates
+# Heat-sensitive loops of the p53 DNA-binding domain are conserved across vertebrates
 
 Supplementary data and analysis code for the manuscript of the same title (Mir, Abbas, Abbas & Lee; submitted to *Animals*, MDPI).
 
